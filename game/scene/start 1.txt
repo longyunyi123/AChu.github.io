@@ -1,0 +1,6 @@
+AChu:诶，干活干活！|还差一点点就做完了，先努力完这一下再奖励自己吧。 -fontSize=default;
+intro:你放下了手机，把所有注意力都集中到了电脑显示屏上，|你进入状态得很快，一心都投入到了工作上面，|好像完全忘记了刚刚发生了什么事情，|只是不停的像机器运转一样敲打着键盘，|突然桌面上闪过的消息引起了你的注意。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+:这什么？|不会是新的任务吧...... -notifications-sound-127856.mp3 -fontSize=default;
+intro:虽然你满脸写着无奈，但你迫于生活的压力，你还是点开了那条不停闪烁的消息，|想都不用想了，就是新的任务，|不过好像只用修改一些漏洞就可以了，不是很复杂，|而且期限是到下个星期，时间还很充裕，|你想驱散你忧郁的心情，想着是不是应该？ -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+choose:继续完成工作:end 2.txt|开始摸鱼计划:D.txt;
+changeFigure: -left;

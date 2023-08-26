@@ -1,0 +1,14 @@
+changeFigure: -left;
+:我手指按向了“B” -fontSize=default;
+bgm:gipsy.mp3;
+changeBg:laptop-820274_1280.jpg;
+intro:我毫不犹豫的点进了B的空间，|毕竟，|最先看见的就是B，人们总会优于第一个，|链接“啪”的一下复制到剪切板里，|去掉多余的字符串，|开始享受接下来的美妙时光—— -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+AChu:这......|写得也太好了吧！ -fontSize=default;
+changeFigure:A02.png -left;
+setAnimation:enter-from-bottom -target=0;
+changeFigure:A03.png -left;
+Achu:他们之间那种微妙的气氛，|写得！真让人血脉喷张！|好期待下一章内容。 -fontSize=default;
+changeFigure:A01.png -left;
+AChu:赶紧在下面留一条评论 -fontSize=default;
+choose:（疯狂式赞美太太）:next B.txt|（分析式赞美太太）:end 1.txt;
+changeFigure: -left;

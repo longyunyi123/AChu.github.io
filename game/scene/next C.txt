@@ -1,0 +1,7 @@
+changeFigure: -left;
+bgm:jazz.MP3;
+changeBg:pexels-tyler-lastovich-699122.jpg;
+changeFigure:C1.png -left;
+C:嗯？|回复了好多，甚至连这种小细节都被发现了？|试着回复一下。 -fontSize=default;
+intro:END C -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

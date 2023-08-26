@@ -1,0 +1,15 @@
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+intro:你好，|如你所见，|我就是阿褚，一个普普通通、平平凡凡的劳苦上班族。|——————————|这个先暂且不提，|总之，开始带薪摸鱼。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+changeBg:办公室.jpg;
+intro:拿出手机，打开*博、*站，|滑动着手指，一条一条碎片似的小方块浮现在眼前，|广告好多......|信息流量大，关键内容少，|和书本上获取到的细致片段不同，网络上的东西总是一股脑涌入，|还时不时穿插一些炸裂的明星推广，让人崩溃，|不过，这些都算不上什么！ -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+changeFigure:A03.png -left;
+setAnimation:animationTable -target=fig-left -next;
+AChu:诶嘿，好嗑！ -fontSize=large;
+嗑CP真的好幸福，适合在工作空闲时间来放松一下。 -fontSize=medium;
+changeFigure:A01.png -left -next;
+嗯？ -fontSize=medium;
+广场上好像又有新人加入了......|让我仔细看看。 -fontSize=medium;
+还是+2，冷圈要开始发光发热了。|要先点哪一个？ -fontSize=default;
+choose:B:B.txt|C:C.txt|算了，还是先完成手头上的工作吧......:start 1.txt;
+changeFigure: -left;

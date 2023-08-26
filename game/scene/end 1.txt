@@ -1,0 +1,4 @@
+bgm:s_Title.mp3;
+intro:你看着收信件冒出了一个红色的小点点，|就知道是你刚刚发的评论得到了回复，|你迫不及待的点开了评论区，|发现你得到了太太的回复：|“谢谢！” -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:END 1   谢谢 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

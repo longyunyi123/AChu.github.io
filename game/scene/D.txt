@@ -1,0 +1,11 @@
+changeFigure: -left;
+bgm:good-night-160166.mp3;
+intro:你马上开始了你的摸鱼计划，|新任务嘛......先搁置一边，|毕竟，只有调整好了情绪才能更好的工作，|你又拿出了手机，调出了那个画面，|你静静的等待着圆圈转完，|+3！|这是要火起来的节奏啊！ -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:你迫不及待的点了进去，|总感觉这个文章有点眼熟？|像是以前在哪里见过，|你摇了摇头，大概是你多虑了...... -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+changeFigure:A01.png -left;
+changeBg:sunflower-1127174_1280.jpg;
+AChu:好喜欢这种平淡之中又透露出一点暧昧的感情波动啊，|看似是很日常的生活，却在不经意的对话间关心着对方，|读完后心里暖暖的！ -fontSize=default;
+changeFigure:A02.png -left;
+AChu:烦躁的心情，被愈治了，我要留言！ -fontSize=default;
+choose:（开心）:next D.txt|（温暖）:next D.txt;
+changeFigure: -left;

@@ -1,0 +1,9 @@
+changeFigure:none -left;
+changeFigure: -right;
+changeBg:coffee-2390136_1280.jpg;
+bgm:s_Title.mp3;
+changeFigure:M8.png;
+M:当然！ -fontSize=default;
+intro:你的小猫咪最喜欢的就是你，|不论是以前，还是现在，|它都想让你开心！ -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:GOOD END 猫咪 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

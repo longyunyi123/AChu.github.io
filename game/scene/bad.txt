@@ -1,0 +1,9 @@
+changeFigure: -left;
+changeFigure:none -right;
+changeBg:coffee-2390136_1280.jpg;
+bgm:8月22日.MP3;
+changeFigure:M7.png;
+M:好的。 -fontSize=default;
+intro:你的小猫咪真的很喜欢你，|即使是以别的模样出现在你的面前，|不论如何，它今后也会陪着你。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:BAD END 梅芙 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

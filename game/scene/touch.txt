@@ -1,0 +1,3 @@
+intro:你和以往一样摸了它，|帮它顺毛，|它似乎很开心，喉咙里发出“咕噜咕噜”的声音，|你的心情也变得好了起来。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:END 3 日常 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

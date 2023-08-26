@@ -1,0 +1,12 @@
+intro:END 2 生活所迫 -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:你疲惫的回到家中，换上了便服，|简单的吃过了晚餐之后就回到了房间，|即使是心情不好的一天，你也不会推迟看书的这个计划，|就在你那起一本书的时候，|你听见了一个声音。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+intro:是你很熟悉的声音，|你养的小猫站在你面前，抬着头看着你，|放在平时它应该不会这么做，|今天它的行为变得有些奇怪了...... -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+bgm:just-relax-11157.mp3;
+changeBg:coffee-2390136_1280.jpg;
+changeFigure:A11.png -left;
+changeFigure:M0.png -right;
+M:喵~ -shari_meow-47485.mp3 -fontSize=large;
+setAnimation:enter-from-bottom -target=;
+:看着今天格外缠着你的小猫，你打算？ -fontSize=default;
+choose:摸摸它:touch.txt|抱抱它:hug.txt;
+changeFigure: -left;

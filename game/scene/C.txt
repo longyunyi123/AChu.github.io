@@ -1,0 +1,13 @@
+changeFigure: -left;
+:我选择点击了“C” -fontSize=default;
+bgm:jazz.MP3;
+changeBg:pexels-mo-eid-17877157.jpg;
+intro:我犹豫了一下，|这次准备剑走偏锋，|从第二个开始看起，|到时候再往上刷新就行，万一又有新的呢？|自己稳看不亏！|立马前往属于我的光明大道。 -fontSize=small -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+changeFigure:A03.png -left;
+setAnimation:enter-from-bottom -target=;
+AChu:这个是......|冷圈中一颗闪闪发光的明星啊...... -fontSize=default;
+AChu:居然写的是我本命诶！|好激动，写得好细腻，像是吃了一口甜甜的棉花糖。 -fontSize=default;
+changeFigure:A01.png -left;
+AChu:工作之余居然能品得如此美文，|我一定要留下真挚的评论！ -fontSize=default;
+choose:（疯狂夸夸太太）:end 1.txt|（冷静夸夸太太）:next C.txt;
+changeFigure: -left;

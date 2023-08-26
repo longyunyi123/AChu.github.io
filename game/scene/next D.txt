@@ -1,0 +1,8 @@
+changeFigure: -left;
+bgm:good-night-160166.mp3;
+changeBg:pexels-tyler-lastovich-699122.jpg;
+changeFigure:D1.png -left;
+D:是！|是学姐的留言！ -fontSize=large;
+D:没想到学姐居然和我在一个圈！|好激动，不过学姐应该不认识我的这个号吧。|先思考一下要怎么回...... -fontSize=default;
+intro:END D -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

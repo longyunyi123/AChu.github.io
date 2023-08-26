@@ -1,0 +1,7 @@
+changeFigure:none -left;
+B:好热情的回复！|我也要回应相当的热情！|看我飞快打键盘！ -fontSize=default;
+bgm:gipsy.mp3;
+changeBg:pexels-tyler-lastovich-699122.jpg;
+changeFigure:B1.png -left;
+intro:END B -fontSize=large -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1);
+end;

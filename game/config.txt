@@ -1,0 +1,5 @@
+Game_name:小小阿褚冲冲冲！！！;
+Game_key:82f5ded8b7a168;
+Package_name:AChu;
+Title_bgm:s_Title.mp3;
+Title_img:办公室.jpg;
